@@ -1,5 +1,5 @@
 {
-  "name": "next-js-app-folder",
+  "name": "nextjs-multi-page-app",
   "private": true,
   "scripts": {
     "dev": "next dev",
